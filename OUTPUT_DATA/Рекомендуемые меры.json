@@ -1,0 +1,68 @@
+[
+  {
+    "product_code": "842810",
+    "recommendation": "measures_suggested",
+    "reason": [
+      "Повышение ставки таможенной пошлины до уровня связывания в рамках Всемирной торговой организации (ВТО)."
+    ],
+    "measures": [
+      "Measure 1"
+    ],
+    "_debug": {
+      "tariff_current": 0.0,
+      "tariff_wto": 5.0,
+      "ns_share_percent": 32.17107064175933,
+      "ns_growth_abs": -561000.0,
+      "ns_growth_pct": -0.5650912607276684,
+      "production_last": 307000000.0,
+      "consumption_last": 306000000.0,
+      "top1_country": "Belarus",
+      "top1_avg_price": 2404.7482289871723,
+      "other_avg_price_mean": 15182.007454533483
+    }
+  },
+  {
+    "product_code": "330300",
+    "recommendation": "measures_suggested",
+    "reason": [
+      " Повышение ставки таможенной пошлины до уровня 35-50% в рамках национального контрсанкционного регулирования."
+    ],
+    "measures": [
+      "Measure 2"
+    ],
+    "_debug": {
+      "tariff_current": 6.5,
+      "tariff_wto": 6.5,
+      "ns_share_percent": 95.50654904131942,
+      "ns_growth_abs": 187222999.99999994,
+      "ns_growth_pct": 55.52415241168235,
+      "production_last": 657000000.0,
+      "consumption_last": 224000000.0,
+      "top1_country": "France",
+      "top1_avg_price": 47213.65277321956,
+      "other_avg_price_mean": 34718.883697893485
+    }
+  },
+  {
+    "product_code": "847290",
+    "recommendation": "measures_suggested",
+    "reason": [
+      "Расширение или инициирование применения преференциального режима в отношении товара в рамках государственных закупок."
+    ],
+    "measures": [
+      "Measure 4"
+    ],
+    "_debug": {
+      "tariff_current": 0.0,
+      "tariff_wto": 0.0,
+      "ns_share_percent": 29.023558302335566,
+      "ns_growth_abs": 3043999.9999999925,
+      "ns_growth_pct": 5.3296914942045595,
+      "production_last": 576000000.0,
+      "consumption_last": 217000000.0,
+      "top1_country": "China",
+      "top1_avg_price": 17301.191499815748,
+      "other_avg_price_mean": 33629.731576054284
+    }
+  }
+]

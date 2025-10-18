@@ -1,0 +1,2948 @@
+[
+  {
+    "product_code": "842810",
+    "geo_structure_by_year": [
+      {
+        "year": 2022,
+        "total_import_value_usd": 285386000.0,
+        "top_countries": [
+          {
+            "country": "Belarus",
+            "import_value_usd": 110276000.0,
+            "import_value_tones": 43201.0,
+            "share_percent": 38.64099850728487,
+            "is_friendly": true
+          },
+          {
+            "country": "China",
+            "import_value_usd": 78788000.0,
+            "import_value_tones": 24657.0,
+            "share_percent": 27.607521041676886,
+            "is_friendly": true
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 18583000.0,
+            "import_value_tones": 2987.0,
+            "share_percent": 6.511531749980728,
+            "is_friendly": false
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 13892000.0,
+            "import_value_tones": 147.0,
+            "share_percent": 4.867793094265311,
+            "is_friendly": false
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 13301000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 4.6607051502176,
+            "is_friendly": false
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 9913000.0,
+            "import_value_tones": 2436.0,
+            "share_percent": 3.473541098722432,
+            "is_friendly": true
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 9412000.0,
+            "import_value_tones": 1908.0,
+            "share_percent": 3.2979893898088903,
+            "is_friendly": false
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 9000000.0,
+            "import_value_tones": 1978.0,
+            "share_percent": 3.153623513416916,
+            "is_friendly": false
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 5083000.0,
+            "import_value_tones": 856.0,
+            "share_percent": 1.781096479855354,
+            "is_friendly": false
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 3821000.0,
+            "import_value_tones": 713.0,
+            "share_percent": 1.338888382751782,
+            "is_friendly": false
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 2908000.0,
+            "import_value_tones": 85.0,
+            "share_percent": 1.0189707974462658,
+            "is_friendly": true
+          },
+          {
+            "country": "France",
+            "import_value_usd": 2849000.0,
+            "import_value_tones": 218.0,
+            "share_percent": 0.9982970433027548,
+            "is_friendly": false
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 1635000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.5729082716040731,
+            "is_friendly": false
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 1327000.0,
+            "import_value_tones": 731.0,
+            "share_percent": 0.4649842669226942,
+            "is_friendly": false
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 1302000.0,
+            "import_value_tones": 54.0,
+            "share_percent": 0.4562242016076472,
+            "is_friendly": false
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 1204000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.421884745572663,
+            "is_friendly": false
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 595000.0,
+            "import_value_tones": 23.0,
+            "share_percent": 0.20848955449811835,
+            "is_friendly": false
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 490000.0,
+            "import_value_tones": 274.0,
+            "share_percent": 0.17169728017492097,
+            "is_friendly": false
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 421000.0,
+            "import_value_tones": 2570.0,
+            "share_percent": 0.1475194999053913,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 253000.0,
+            "import_value_tones": 41.0,
+            "share_percent": 0.08865186098827553,
+            "is_friendly": false
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 235000.0,
+            "import_value_tones": 2.0,
+            "share_percent": 0.0823446139614417,
+            "is_friendly": false
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 49000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.017169728017492097,
+            "is_friendly": true
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 20000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.007008052252037591,
+            "is_friendly": false
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 19000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.006657649639435712,
+            "is_friendly": false
+          },
+          {
+            "country": "India",
+            "import_value_usd": 10000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.0035040261260187956,
+            "is_friendly": true
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Bosnia and Herzegovina",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 23.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Estonia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 423.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 0.0,
+            "import_value_tones": 42.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Norway",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 2224.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "South Africa",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "total_import_value_usd": 299993000.0,
+        "top_countries": [
+          {
+            "country": "Belarus",
+            "import_value_usd": 98918000.0,
+            "import_value_tones": 43332.0,
+            "share_percent": 32.973436046841094,
+            "is_friendly": true
+          },
+          {
+            "country": "China",
+            "import_value_usd": 84855000.0,
+            "import_value_tones": 25955.0,
+            "share_percent": 28.285659998733305,
+            "is_friendly": true
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 43120000.0,
+            "import_value_tones": 4653.0,
+            "share_percent": 14.373668718936775,
+            "is_friendly": false
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 15761000.0,
+            "import_value_tones": 1203.0,
+            "share_percent": 5.253789255082618,
+            "is_friendly": false
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 14317000.0,
+            "import_value_tones": 4518.0,
+            "share_percent": 4.772444690376108,
+            "is_friendly": true
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 12194000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 4.064761511101926,
+            "is_friendly": false
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 7156000.0,
+            "import_value_tones": 3026.0,
+            "share_percent": 2.385388992409823,
+            "is_friendly": false
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 6030000.0,
+            "import_value_tones": 965.0,
+            "share_percent": 2.0100469010943587,
+            "is_friendly": false
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 4722000.0,
+            "import_value_tones": 117.0,
+            "share_percent": 1.5740367275236422,
+            "is_friendly": false
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 2547000.0,
+            "import_value_tones": 113.0,
+            "share_percent": 0.8490198104622442,
+            "is_friendly": true
+          },
+          {
+            "country": "France",
+            "import_value_usd": 1656000.0,
+            "import_value_tones": 216.0,
+            "share_percent": 0.5520128803005403,
+            "is_friendly": false
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 1617000.0,
+            "import_value_tones": 609.0,
+            "share_percent": 0.539012576960129,
+            "is_friendly": false
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 1602000.0,
+            "import_value_tones": 8.0,
+            "share_percent": 0.5340124602907401,
+            "is_friendly": false
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 1536000.0,
+            "import_value_tones": 10.0,
+            "share_percent": 0.5120119469454287,
+            "is_friendly": false
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 1079000.0,
+            "import_value_tones": 306.0,
+            "share_percent": 0.359675059084712,
+            "is_friendly": false
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 734000.0,
+            "import_value_tones": 160.0,
+            "share_percent": 0.24467237568876607,
+            "is_friendly": false
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 631000.0,
+            "import_value_tones": 40.0,
+            "share_percent": 0.2103382412256286,
+            "is_friendly": false
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 424000.0,
+            "import_value_tones": 300.0,
+            "share_percent": 0.14133663118806106,
+            "is_friendly": false
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 278000.0,
+            "import_value_tones": 89.0,
+            "share_percent": 0.09266882893934192,
+            "is_friendly": false
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 267000.0,
+            "import_value_tones": 15.0,
+            "share_percent": 0.08900207671512335,
+            "is_friendly": false
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 249000.0,
+            "import_value_tones": 27.0,
+            "share_percent": 0.08300193671185661,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 101000.0,
+            "import_value_tones": 12.0,
+            "share_percent": 0.03366745224055228,
+            "is_friendly": false
+          },
+          {
+            "country": "Estonia",
+            "import_value_usd": 89000.0,
+            "import_value_tones": 647.0,
+            "share_percent": 0.029667358905041116,
+            "is_friendly": false
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 66000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.02200051334531139,
+            "is_friendly": true
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 26000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.008666868893607517,
+            "is_friendly": false
+          },
+          {
+            "country": "Norway",
+            "import_value_usd": 14000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.004666775558096355,
+            "is_friendly": true
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0006666822225851937,
+            "is_friendly": false
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0006666822225851937,
+            "is_friendly": false
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 15.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Bosnia and Herzegovina",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "India",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 1782.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "South Africa",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "total_import_value_usd": 306844000.0,
+        "top_countries": [
+          {
+            "country": "Belarus",
+            "import_value_usd": 100480000.0,
+            "import_value_tones": 41784.0,
+            "share_percent": 32.746281498090234,
+            "is_friendly": true
+          },
+          {
+            "country": "China",
+            "import_value_usd": 86759000.0,
+            "import_value_tones": 25690.0,
+            "share_percent": 28.274628149809022,
+            "is_friendly": true
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 41540000.0,
+            "import_value_tones": 5777.0,
+            "share_percent": 13.537823780161906,
+            "is_friendly": false
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 18489000.0,
+            "import_value_tones": 4957.0,
+            "share_percent": 6.025537406630079,
+            "is_friendly": true
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 10185000.0,
+            "import_value_tones": 1603.0,
+            "share_percent": 3.31927624460638,
+            "is_friendly": false
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 9350000.0,
+            "import_value_tones": 1498.0,
+            "share_percent": 3.0471509952940257,
+            "is_friendly": false
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 6395000.0,
+            "import_value_tones": 858.0,
+            "share_percent": 2.0841209213802454,
+            "is_friendly": false
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 5007000.0,
+            "import_value_tones": 805.0,
+            "share_percent": 1.6317738003676134,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 4941000.0,
+            "import_value_tones": 758.0,
+            "share_percent": 1.6102644992243615,
+            "is_friendly": false
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 3973000.0,
+            "import_value_tones": 440.0,
+            "share_percent": 1.294794749123333,
+            "is_friendly": false
+          },
+          {
+            "country": "Estonia",
+            "import_value_usd": 3012000.0,
+            "import_value_tones": 382.0,
+            "share_percent": 0.9816062885374979,
+            "is_friendly": false
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 2997000.0,
+            "import_value_tones": 357.0,
+            "share_percent": 0.9767178110049406,
+            "is_friendly": false
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 2551000.0,
+            "import_value_tones": 232.0,
+            "share_percent": 0.8313670790369048,
+            "is_friendly": false
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 1867000.0,
+            "import_value_tones": 215.0,
+            "share_percent": 0.6084525035522936,
+            "is_friendly": false
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 1777000.0,
+            "import_value_tones": 185.0,
+            "share_percent": 0.5791216383569501,
+            "is_friendly": false
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 1599000.0,
+            "import_value_tones": 116.0,
+            "share_percent": 0.521111704970604,
+            "is_friendly": true
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 940000.0,
+            "import_value_tones": 114.0,
+            "share_percent": 0.306344592040255,
+            "is_friendly": false
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 790000.0,
+            "import_value_tones": 90.0,
+            "share_percent": 0.2574598167146824,
+            "is_friendly": false
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 766000.0,
+            "import_value_tones": 61.0,
+            "share_percent": 0.24963825266259076,
+            "is_friendly": false
+          },
+          {
+            "country": "France",
+            "import_value_usd": 674000.0,
+            "import_value_tones": 50.0,
+            "share_percent": 0.21965559046290623,
+            "is_friendly": false
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 657000.0,
+            "import_value_tones": 41.0,
+            "share_percent": 0.214115315926008,
+            "is_friendly": false
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 593000.0,
+            "import_value_tones": 24.0,
+            "share_percent": 0.19325781178709703,
+            "is_friendly": false
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 560000.0,
+            "import_value_tones": 22.0,
+            "share_percent": 0.18250316121547105,
+            "is_friendly": false
+          },
+          {
+            "country": "South Africa",
+            "import_value_usd": 459000.0,
+            "import_value_tones": 16.0,
+            "share_percent": 0.14958741249625215,
+            "is_friendly": true
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 332000.0,
+            "import_value_tones": 6.0,
+            "share_percent": 0.1081983027206007,
+            "is_friendly": true
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 108000.0,
+            "import_value_tones": 2.0,
+            "share_percent": 0.035197038234412274,
+            "is_friendly": false
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 32000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.01042875206945549,
+            "is_friendly": false
+          },
+          {
+            "country": "Norway",
+            "import_value_usd": 11000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0035848835238753243,
+            "is_friendly": true
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Bosnia and Herzegovina",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "India",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product_code": "330300",
+    "geo_structure_by_year": [
+      {
+        "year": 2022,
+        "total_import_value_usd": 563251000.0,
+        "top_countries": [
+          {
+            "country": "France",
+            "import_value_usd": 316569000.0,
+            "import_value_tones": 6887.0,
+            "share_percent": 56.2038948887796,
+            "is_friendly": false
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 64796000.00000001,
+            "import_value_tones": 2571.0,
+            "share_percent": 11.503929864305613,
+            "is_friendly": false
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 52434000.0,
+            "import_value_tones": 2209.0,
+            "share_percent": 9.309171222066183,
+            "is_friendly": false
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 32689000.0,
+            "import_value_tones": 1030.0,
+            "share_percent": 5.803629287830825,
+            "is_friendly": false
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 27625000.0,
+            "import_value_tones": 1444.0,
+            "share_percent": 4.904562974588594,
+            "is_friendly": false
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 18249000.0,
+            "import_value_tones": 240.0,
+            "share_percent": 3.239940985457638,
+            "is_friendly": false
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 17038000.0,
+            "import_value_tones": 1210.0,
+            "share_percent": 3.024939147910967,
+            "is_friendly": false
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 8119000.0,
+            "import_value_tones": 493.0,
+            "share_percent": 1.4414532774908522,
+            "is_friendly": false
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 5768000.0,
+            "import_value_tones": 8.0,
+            "share_percent": 1.0240549950199822,
+            "is_friendly": false
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 5157000.0,
+            "import_value_tones": 252.0,
+            "share_percent": 0.915577602170258,
+            "is_friendly": true
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 3951000.0,
+            "import_value_tones": 245.0,
+            "share_percent": 0.7014634683293949,
+            "is_friendly": false
+          },
+          {
+            "country": "United Arab Emirates",
+            "import_value_usd": 3924000.0,
+            "import_value_tones": 172.0,
+            "share_percent": 0.6966698683180322,
+            "is_friendly": true
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 1975000.0,
+            "import_value_tones": 223.0,
+            "share_percent": 0.35064296379411664,
+            "is_friendly": true
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 1352000.0,
+            "import_value_tones": 57.0,
+            "share_percent": 0.24003508205045354,
+            "is_friendly": false
+          },
+          {
+            "country": "Bahrain",
+            "import_value_usd": 621000.0,
+            "import_value_tones": 32.0,
+            "share_percent": 0.11025280026133998,
+            "is_friendly": true
+          },
+          {
+            "country": "China",
+            "import_value_usd": 527000.0,
+            "import_value_tones": 16.0,
+            "share_percent": 0.09356397059215163,
+            "is_friendly": true
+          },
+          {
+            "country": "Ireland",
+            "import_value_usd": 401000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.0711938372057928,
+            "is_friendly": false
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 393000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.06977351127650018,
+            "is_friendly": false
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 339000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.06018631125377496,
+            "is_friendly": false
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 312000.0,
+            "import_value_tones": 29.0,
+            "share_percent": 0.05539271124241235,
+            "is_friendly": true
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 248000.0,
+            "import_value_tones": 18.0,
+            "share_percent": 0.044030103808071354,
+            "is_friendly": false
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 174000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.03089208896211458,
+            "is_friendly": false
+          },
+          {
+            "country": "Oman",
+            "import_value_usd": 172000.0,
+            "import_value_tones": 460.0,
+            "share_percent": 0.030537007479791427,
+            "is_friendly": true
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 128000.0,
+            "import_value_tones": 11.0,
+            "share_percent": 0.02272521486868199,
+            "is_friendly": false
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 52000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.00923211854040206,
+            "is_friendly": false
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 46000.0,
+            "import_value_tones": 2.0,
+            "share_percent": 0.00816687409343259,
+            "is_friendly": false
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 39000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.006924088905301544,
+            "is_friendly": false
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 36000.0,
+            "import_value_tones": 2.0,
+            "share_percent": 0.00639146668181681,
+            "is_friendly": false
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 22000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0039058963055547172,
+            "is_friendly": false
+          },
+          {
+            "country": "Saudi Arabia",
+            "import_value_usd": 21000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.003728355564393139,
+            "is_friendly": true
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 19000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.003373274082069983,
+            "is_friendly": true
+          },
+          {
+            "country": "Israel",
+            "import_value_usd": 13000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.002308029635100515,
+            "is_friendly": true
+          },
+          {
+            "country": "Egypt",
+            "import_value_usd": 9000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0015978666704542024,
+            "is_friendly": true
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 9000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0015978666704542024,
+            "is_friendly": false
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 8000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0014203259292926245,
+            "is_friendly": true
+          },
+          {
+            "country": "Chile",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0007101629646463122,
+            "is_friendly": true
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0007101629646463122,
+            "is_friendly": true
+          },
+          {
+            "country": "Australia",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 6.0,
+            "share_percent": 0.0007101629646463122,
+            "is_friendly": false
+          },
+          {
+            "country": "India",
+            "import_value_usd": 3000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.0005326222234847341,
+            "is_friendly": true
+          },
+          {
+            "country": "Brazil",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.00017754074116157806,
+            "is_friendly": true
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Cyprus",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Area Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 31.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Morocco",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Kyrgyzstan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Uzbekistan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "total_import_value_usd": 350969000.0,
+        "top_countries": [
+          {
+            "country": "France",
+            "import_value_usd": 176841000.0,
+            "import_value_tones": 4236.0,
+            "share_percent": 50.38650137191604,
+            "is_friendly": false
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 42537000.0,
+            "import_value_tones": 2414.0,
+            "share_percent": 12.11987383501107,
+            "is_friendly": false
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 34301000.0,
+            "import_value_tones": 1796.0,
+            "share_percent": 9.77322783493699,
+            "is_friendly": false
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 28326000.0,
+            "import_value_tones": 854.0,
+            "share_percent": 8.070798275631182,
+            "is_friendly": false
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 17981000.0,
+            "import_value_tones": 684.0,
+            "share_percent": 5.12324450307577,
+            "is_friendly": false
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 14931000.0,
+            "import_value_tones": 196.0,
+            "share_percent": 4.254221882844353,
+            "is_friendly": false
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 11432000.0,
+            "import_value_tones": 1324.0,
+            "share_percent": 3.2572677358969027,
+            "is_friendly": false
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 5262000.0,
+            "import_value_tones": 194.0,
+            "share_percent": 1.4992777139861355,
+            "is_friendly": true
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 4075999.9999999995,
+            "import_value_tones": 207.0,
+            "share_percent": 1.1613561311682796,
+            "is_friendly": false
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 3693000.0,
+            "import_value_tones": 406.0,
+            "share_percent": 1.0522296841031544,
+            "is_friendly": false
+          },
+          {
+            "country": "United Arab Emirates",
+            "import_value_usd": 3256000.0,
+            "import_value_tones": 85.0,
+            "share_percent": 0.9277172627781941,
+            "is_friendly": true
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 2281000.0,
+            "import_value_tones": 167.0,
+            "share_percent": 0.649914949753397,
+            "is_friendly": true
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 1799000.0,
+            "import_value_tones": 177.0,
+            "share_percent": 0.5125808832119076,
+            "is_friendly": true
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 1278000.0,
+            "import_value_tones": 4.0,
+            "share_percent": 0.3641347241494263,
+            "is_friendly": false
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 1086000.0,
+            "import_value_tones": 49.0,
+            "share_percent": 0.30942903789223547,
+            "is_friendly": false
+          },
+          {
+            "country": "China",
+            "import_value_usd": 398000.0,
+            "import_value_tones": 24.0,
+            "share_percent": 0.11340032880396844,
+            "is_friendly": true
+          },
+          {
+            "country": "Bahrain",
+            "import_value_usd": 369000.0,
+            "import_value_tones": 36.0,
+            "share_percent": 0.10513749077553858,
+            "is_friendly": true
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 334000.0,
+            "import_value_tones": 12.0,
+            "share_percent": 0.0951651000515715,
+            "is_friendly": false
+          },
+          {
+            "country": "Oman",
+            "import_value_usd": 293000.0,
+            "import_value_tones": 113.0,
+            "share_percent": 0.08348315663206722,
+            "is_friendly": true
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 141000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0401744883451245,
+            "is_friendly": false
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 76000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.02165433414347136,
+            "is_friendly": false
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 70000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.019944781447934146,
+            "is_friendly": true
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 53000.0,
+            "import_value_tones": 3.0,
+            "share_percent": 0.015101048810578712,
+            "is_friendly": false
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 37000.0,
+            "import_value_tones": 8.0,
+            "share_percent": 0.010542241622479478,
+            "is_friendly": false
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 35000.0,
+            "import_value_tones": 2.0,
+            "share_percent": 0.009972390723967073,
+            "is_friendly": false
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 25000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.007123136231405053,
+            "is_friendly": true
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 17000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.004843732637355436,
+            "is_friendly": false
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 10000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.002849254492562021,
+            "is_friendly": true
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 6000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.0017095526955372127,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 6000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0017095526955372127,
+            "is_friendly": false
+          },
+          {
+            "country": "Egypt",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0014246272462810105,
+            "is_friendly": true
+          },
+          {
+            "country": "Australia",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 3.0,
+            "share_percent": 0.0011397017970248085,
+            "is_friendly": false
+          },
+          {
+            "country": "Morocco",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0011397017970248085,
+            "is_friendly": true
+          },
+          {
+            "country": "Israel",
+            "import_value_usd": 3000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0008547763477686064,
+            "is_friendly": true
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0002849254492562021,
+            "is_friendly": true
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0002849254492562021,
+            "is_friendly": false
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0002849254492562021,
+            "is_friendly": true
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Brazil",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Chile",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Cyprus",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Area Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "India",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Ireland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Kyrgyzstan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Saudi Arabia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Uzbekistan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "total_import_value_usd": 549088000.0,
+        "top_countries": [
+          {
+            "country": "France",
+            "import_value_usd": 287720000.0,
+            "import_value_tones": 6094.0,
+            "share_percent": 52.39961536220059,
+            "is_friendly": false
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 72193000.0,
+            "import_value_tones": 2322.0,
+            "share_percent": 13.14780144530567,
+            "is_friendly": false
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 51377000.0,
+            "import_value_tones": 2273.0,
+            "share_percent": 9.356787982982691,
+            "is_friendly": false
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 35864000.0,
+            "import_value_tones": 1475.0,
+            "share_percent": 6.531557783087592,
+            "is_friendly": false
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 27410000.0,
+            "import_value_tones": 886.0,
+            "share_percent": 4.991913864444315,
+            "is_friendly": false
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 18953000.0,
+            "import_value_tones": 754.0,
+            "share_percent": 3.451723585290518,
+            "is_friendly": false
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 16448000.0,
+            "import_value_tones": 586.0,
+            "share_percent": 2.995512559006935,
+            "is_friendly": false
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 7058000.0,
+            "import_value_tones": 574.0,
+            "share_percent": 1.285404161081648,
+            "is_friendly": false
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 5787000.0,
+            "import_value_tones": 350.0,
+            "share_percent": 1.0539294247916546,
+            "is_friendly": true
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 5743000.0,
+            "import_value_tones": 270.0,
+            "share_percent": 1.0459161373040387,
+            "is_friendly": true
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 5504000.0,
+            "import_value_tones": 201.0,
+            "share_percent": 1.002389416632671,
+            "is_friendly": true
+          },
+          {
+            "country": "United Arab Emirates",
+            "import_value_usd": 5089000.0,
+            "import_value_tones": 179.0,
+            "share_percent": 0.9268095460108398,
+            "is_friendly": true
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 3538000.0,
+            "import_value_tones": 164.0,
+            "share_percent": 0.6443411620723818,
+            "is_friendly": false
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 1261000.0,
+            "import_value_tones": 79.0,
+            "share_percent": 0.2296535345882627,
+            "is_friendly": false
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 1051000.0,
+            "import_value_tones": 38.0,
+            "share_percent": 0.19140829885191446,
+            "is_friendly": false
+          },
+          {
+            "country": "China",
+            "import_value_usd": 1034999.9999999999,
+            "import_value_tones": 34.0,
+            "share_percent": 0.18849437612914502,
+            "is_friendly": true
+          },
+          {
+            "country": "Bahrain",
+            "import_value_usd": 677000.0,
+            "import_value_tones": 26.0,
+            "share_percent": 0.12329535520717991,
+            "is_friendly": true
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 503000.0,
+            "import_value_tones": 15.0,
+            "share_percent": 0.09160644559706277,
+            "is_friendly": false
+          },
+          {
+            "country": "Oman",
+            "import_value_usd": 398000.0,
+            "import_value_tones": 15.0,
+            "share_percent": 0.07248382772888863,
+            "is_friendly": true
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 329000.0,
+            "import_value_tones": 8.0,
+            "share_percent": 0.05991753598694562,
+            "is_friendly": false
+          },
+          {
+            "country": "Area Nes",
+            "import_value_usd": 271000.0,
+            "import_value_tones": 5.0,
+            "share_percent": 0.04935456611690658,
+            "is_friendly": true
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 182000.0,
+            "import_value_tones": 4.0,
+            "share_percent": 0.03314587097150184,
+            "is_friendly": false
+          },
+          {
+            "country": "Australia",
+            "import_value_usd": 136000.0,
+            "import_value_tones": 4.0,
+            "share_percent": 0.024768343143539834,
+            "is_friendly": false
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 132000.0,
+            "import_value_tones": 4.0,
+            "share_percent": 0.024039862462847485,
+            "is_friendly": false
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 121000.0,
+            "import_value_tones": 2.0,
+            "share_percent": 0.022036540590943527,
+            "is_friendly": true
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 103000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.01875837752782796,
+            "is_friendly": false
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 74000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.013476892592808438,
+            "is_friendly": false
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 61000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.011109330380558308,
+            "is_friendly": false
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 16000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.0029139227227693923,
+            "is_friendly": true
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 14000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0025496823824232183,
+            "is_friendly": false
+          },
+          {
+            "country": "Kyrgyzstan",
+            "import_value_usd": 11000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.002003321871903957,
+            "is_friendly": true
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 8000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0014569613613846961,
+            "is_friendly": true
+          },
+          {
+            "country": "Uzbekistan",
+            "import_value_usd": 6000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0010927210210385221,
+            "is_friendly": true
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0009106008508654351,
+            "is_friendly": true
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0009106008508654351,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.00036424034034617404,
+            "is_friendly": false
+          },
+          {
+            "country": "Israel",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.00036424034034617404,
+            "is_friendly": true
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.00018212017017308702,
+            "is_friendly": false
+          },
+          {
+            "country": "Egypt",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Chile",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Cyprus",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Brazil",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "India",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Morocco",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Ireland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Saudi Arabia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product_code": "847290",
+    "geo_structure_by_year": [
+      {
+        "year": 2022,
+        "total_import_value_usd": 292718000.0,
+        "top_countries": [
+          {
+            "country": "China",
+            "import_value_usd": 195111000.0,
+            "import_value_tones": 10842.0,
+            "share_percent": 66.65493751665426,
+            "is_friendly": true
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 33904000.0,
+            "import_value_tones": 1303.0,
+            "share_percent": 11.582478699635827,
+            "is_friendly": false
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 23674000.0,
+            "import_value_tones": 1753.0,
+            "share_percent": 8.087647496908287,
+            "is_friendly": false
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 23191000.0,
+            "import_value_tones": 36.0,
+            "share_percent": 7.922642270034641,
+            "is_friendly": false
+          },
+          {
+            "country": "India",
+            "import_value_usd": 5583000.0,
+            "import_value_tones": 223.0,
+            "share_percent": 1.9072964423096632,
+            "is_friendly": true
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 3161000.0,
+            "import_value_tones": 6.0,
+            "share_percent": 1.0798789278418137,
+            "is_friendly": false
+          },
+          {
+            "country": "Philippines",
+            "import_value_usd": 2411000.0,
+            "import_value_tones": 56.0,
+            "share_percent": 0.8236596314541641,
+            "is_friendly": true
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 2084000.0,
+            "import_value_tones": 638.0,
+            "share_percent": 0.7119480182291489,
+            "is_friendly": false
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 1461000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.4991151893631413,
+            "is_friendly": true
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 626000.0,
+            "import_value_tones": 6.0,
+            "share_percent": 0.21385770605155816,
+            "is_friendly": false
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 456000.0,
+            "import_value_tones": 7.0,
+            "share_percent": 0.15578133220369092,
+            "is_friendly": false
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 319000.0,
+            "import_value_tones": 5.0,
+            "share_percent": 0.10897860739688027,
+            "is_friendly": true
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 236000.0,
+            "import_value_tones": 52.0,
+            "share_percent": 0.08062367192998039,
+            "is_friendly": false
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 120000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.04099508742202393,
+            "is_friendly": false
+          },
+          {
+            "country": "Hong Kong. China",
+            "import_value_usd": 81000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.02767168400986615,
+            "is_friendly": false
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 69000.0,
+            "import_value_tones": 2.0,
+            "share_percent": 0.02357217526766376,
+            "is_friendly": false
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 61000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.02083916943952883,
+            "is_friendly": false
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 54000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.01844778933991077,
+            "is_friendly": false
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 49000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.016739660697326436,
+            "is_friendly": false
+          },
+          {
+            "country": "Singapore",
+            "import_value_usd": 23000.0,
+            "import_value_tones": 3.0,
+            "share_percent": 0.00785739175588792,
+            "is_friendly": false
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 9000.0,
+            "import_value_tones": 8.0,
+            "share_percent": 0.0030746315566517945,
+            "is_friendly": false
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 8000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0027330058281349284,
+            "is_friendly": false
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 7000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0023913800996180623,
+            "is_friendly": true
+          },
+          {
+            "country": "Portugal",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0017081286425843303,
+            "is_friendly": false
+          },
+          {
+            "country": "Korea. Democratic People's Republic of",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0017081286425843303,
+            "is_friendly": false
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 3000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.001024877185550598,
+            "is_friendly": true
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 3000.0,
+            "import_value_tones": 52.0,
+            "share_percent": 0.001024877185550598,
+            "is_friendly": false
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0006832514570337321,
+            "is_friendly": false
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0006832514570337321,
+            "is_friendly": true
+          },
+          {
+            "country": "France",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Moldova. Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Malaysia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "total_import_value_usd": 190851000.0,
+        "top_countries": [
+          {
+            "country": "China",
+            "import_value_usd": 130686000.0,
+            "import_value_tones": 6930.0,
+            "share_percent": 68.4754075168587,
+            "is_friendly": true
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 28409000.0,
+            "import_value_tones": 1810.0,
+            "share_percent": 14.885434186878769,
+            "is_friendly": false
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 14703000.0,
+            "import_value_tones": 620.0,
+            "share_percent": 7.703915620038669,
+            "is_friendly": false
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 10529000.0,
+            "import_value_tones": 12.0,
+            "share_percent": 5.516869180669737,
+            "is_friendly": false
+          },
+          {
+            "country": "India",
+            "import_value_usd": 1401000.0,
+            "import_value_tones": 97.0,
+            "share_percent": 0.7340805130704057,
+            "is_friendly": true
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 1200000.0,
+            "import_value_tones": 19.0,
+            "share_percent": 0.6287627520945659,
+            "is_friendly": false
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 729000.0,
+            "import_value_tones": 7.0,
+            "share_percent": 0.3819733718974488,
+            "is_friendly": true
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 664000.0,
+            "import_value_tones": 229.0,
+            "share_percent": 0.3479153894923265,
+            "is_friendly": false
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 601000.0,
+            "import_value_tones": 24.0,
+            "share_percent": 0.3149053450073618,
+            "is_friendly": false
+          },
+          {
+            "country": "Philippines",
+            "import_value_usd": 591000.0,
+            "import_value_tones": 18.0,
+            "share_percent": 0.3096656554065737,
+            "is_friendly": true
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 347000.0,
+            "import_value_tones": 3.0,
+            "share_percent": 0.1818172291473453,
+            "is_friendly": false
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 242000.0,
+            "import_value_tones": 5.0,
+            "share_percent": 0.1268004883390708,
+            "is_friendly": true
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 223000.0,
+            "import_value_tones": 8.0,
+            "share_percent": 0.1168450780975735,
+            "is_friendly": false
+          },
+          {
+            "country": "France",
+            "import_value_usd": 124000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.06497215104977182,
+            "is_friendly": false
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 104000.0,
+            "import_value_tones": 2.0,
+            "share_percent": 0.05449277184819571,
+            "is_friendly": false
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 66000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.034581951365201126,
+            "is_friendly": false
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 58000.0,
+            "import_value_tones": 9.0,
+            "share_percent": 0.030390199684570685,
+            "is_friendly": true
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 51000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.02672241696401905,
+            "is_friendly": false
+          },
+          {
+            "country": "Hong Kong. China",
+            "import_value_usd": 36000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.018862882562836976,
+            "is_friendly": false
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 18000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.009431441281418488,
+            "is_friendly": false
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 17000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.008907472321339684,
+            "is_friendly": false
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 16000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.00838350336126088,
+            "is_friendly": true
+          },
+          {
+            "country": "Malaysia",
+            "import_value_usd": 13000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.006811596481024464,
+            "is_friendly": true
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 7000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0036677827205516345,
+            "is_friendly": false
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 6000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0031438137604728297,
+            "is_friendly": false
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 4.0,
+            "share_percent": 0.0026198448003940246,
+            "is_friendly": false
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.00104793792015761,
+            "is_friendly": false
+          },
+          {
+            "country": "Portugal",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.00104793792015761,
+            "is_friendly": false
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.000523968960078805,
+            "is_friendly": true
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Moldova. Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Korea. Democratic People's Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Singapore",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "total_import_value_usd": 207273000.0,
+        "top_countries": [
+          {
+            "country": "China",
+            "import_value_usd": 140849000.0,
+            "import_value_tones": 8141.0,
+            "share_percent": 67.95337549994451,
+            "is_friendly": true
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 23844000.0,
+            "import_value_tones": 1580.0,
+            "share_percent": 11.503669074119639,
+            "is_friendly": false
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 19300000.0,
+            "import_value_tones": 777.0,
+            "share_percent": 9.311391256941329,
+            "is_friendly": false
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 7740000.0,
+            "import_value_tones": 279.0,
+            "share_percent": 3.7342056128873513,
+            "is_friendly": false
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 6675000.0,
+            "import_value_tones": 223.0,
+            "share_percent": 3.220390499486185,
+            "is_friendly": false
+          },
+          {
+            "country": "India",
+            "import_value_usd": 2500000.0,
+            "import_value_tones": 131.0,
+            "share_percent": 1.2061387638525036,
+            "is_friendly": true
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 2161000.0,
+            "import_value_tones": 73.0,
+            "share_percent": 1.0425863474741042,
+            "is_friendly": true
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 1022000.0,
+            "import_value_tones": 49.0,
+            "share_percent": 0.4930695266629035,
+            "is_friendly": false
+          },
+          {
+            "country": "Philippines",
+            "import_value_usd": 922000.0,
+            "import_value_tones": 25.0,
+            "share_percent": 0.44482397610880337,
+            "is_friendly": true
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 647000.0,
+            "import_value_tones": 17.0,
+            "share_percent": 0.312148712085028,
+            "is_friendly": false
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 541000.0,
+            "import_value_tones": 13.0,
+            "share_percent": 0.2610084284976818,
+            "is_friendly": false
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 430000.0,
+            "import_value_tones": 7.0,
+            "share_percent": 0.20745586738263064,
+            "is_friendly": true
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 210000.0,
+            "import_value_tones": 4.0,
+            "share_percent": 0.10131565616361031,
+            "is_friendly": true
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 136000.0,
+            "import_value_tones": 3.0,
+            "share_percent": 0.0656139487535762,
+            "is_friendly": false
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 78000.0,
+            "import_value_tones": 2.0,
+            "share_percent": 0.037631529432198114,
+            "is_friendly": false
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 52000.0,
+            "import_value_tones": 2.0,
+            "share_percent": 0.02508768628813208,
+            "is_friendly": false
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 47000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.02267540876042707,
+            "is_friendly": false
+          },
+          {
+            "country": "Hong Kong. China",
+            "import_value_usd": 35000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.016885942693935053,
+            "is_friendly": false
+          },
+          {
+            "country": "Malaysia",
+            "import_value_usd": 26000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.01254384314406604,
+            "is_friendly": true
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 23000.0,
+            "import_value_tones": 1.0,
+            "share_percent": 0.011096476627443034,
+            "is_friendly": false
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 17000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.008201743594197026,
+            "is_friendly": true
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 14000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.006754377077574021,
+            "is_friendly": false
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.001929822022164006,
+            "is_friendly": false
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "France",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Moldova. Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Korea. Democratic People's Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Portugal",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Singapore",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": true
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "share_percent": 0.0,
+            "is_friendly": false
+          }
+        ]
+      }
+    ]
+  }
+]

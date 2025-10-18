@@ -1,0 +1,2528 @@
+[
+  {
+    "product_code": "842810",
+    "avg_contract_price_by_year": [
+      {
+        "year": 2022,
+        "top5_by_value": [
+          {
+            "country": "Belarus",
+            "import_value_usd": 110276000.0,
+            "import_value_tones": 43201.0,
+            "avg_contract_price_usd_per_tone": 2552.626096618134
+          },
+          {
+            "country": "China",
+            "import_value_usd": 78788000.0,
+            "import_value_tones": 24657.0,
+            "avg_contract_price_usd_per_tone": 3195.3603439185626
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 18583000.0,
+            "import_value_tones": 2987.0,
+            "avg_contract_price_usd_per_tone": 6221.292266488115
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 13892000.0,
+            "import_value_tones": 147.0,
+            "avg_contract_price_usd_per_tone": 94503.40136054422
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 13301000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 9913000.0,
+            "import_value_tones": 2436.0,
+            "avg_contract_price_usd_per_tone": 4069.376026272578
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 9412000.0,
+            "import_value_tones": 1908.0,
+            "avg_contract_price_usd_per_tone": 4932.914046121593
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 9000000.0,
+            "import_value_tones": 1978.0,
+            "avg_contract_price_usd_per_tone": 4550.05055611729
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 5083000.0,
+            "import_value_tones": 856.0,
+            "avg_contract_price_usd_per_tone": 5938.084112149532
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 3821000.0,
+            "import_value_tones": 713.0,
+            "avg_contract_price_usd_per_tone": 5359.046283309958
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 2908000.0,
+            "import_value_tones": 85.0,
+            "avg_contract_price_usd_per_tone": 34211.76470588235
+          },
+          {
+            "country": "France",
+            "import_value_usd": 2849000.0,
+            "import_value_tones": 218.0,
+            "avg_contract_price_usd_per_tone": 13068.80733944954
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 1635000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 1327000.0,
+            "import_value_tones": 731.0,
+            "avg_contract_price_usd_per_tone": 1815.3214774281805
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 1302000.0,
+            "import_value_tones": 54.0,
+            "avg_contract_price_usd_per_tone": 24111.11111111111
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 1204000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 595000.0,
+            "import_value_tones": 23.0,
+            "avg_contract_price_usd_per_tone": 25869.565217391304
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 490000.0,
+            "import_value_tones": 274.0,
+            "avg_contract_price_usd_per_tone": 1788.3211678832117
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 421000.0,
+            "import_value_tones": 2570.0,
+            "avg_contract_price_usd_per_tone": 163.81322957198444
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 253000.0,
+            "import_value_tones": 41.0,
+            "avg_contract_price_usd_per_tone": 6170.731707317073
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 235000.0,
+            "import_value_tones": 2.0,
+            "avg_contract_price_usd_per_tone": 117500.0
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 49000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 20000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 20000.0
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 19000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 19000.0
+          },
+          {
+            "country": "India",
+            "import_value_usd": 10000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 10000.0
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 23.0,
+            "avg_contract_price_usd_per_tone": 0.0
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Bosnia and Herzegovina",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 0.0,
+            "import_value_tones": 42.0,
+            "avg_contract_price_usd_per_tone": 0.0
+          },
+          {
+            "country": "Estonia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 423.0,
+            "avg_contract_price_usd_per_tone": 0.0
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Norway",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 2224.0,
+            "avg_contract_price_usd_per_tone": 0.0
+          },
+          {
+            "country": "South Africa",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "top5_by_value": [
+          {
+            "country": "Belarus",
+            "import_value_usd": 98918000.0,
+            "import_value_tones": 43332.0,
+            "avg_contract_price_usd_per_tone": 2282.7933167174374
+          },
+          {
+            "country": "China",
+            "import_value_usd": 84855000.0,
+            "import_value_tones": 25955.0,
+            "avg_contract_price_usd_per_tone": 3269.312271238682
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 43120000.0,
+            "import_value_tones": 4653.0,
+            "avg_contract_price_usd_per_tone": 9267.139479905438
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 15761000.0,
+            "import_value_tones": 1203.0,
+            "avg_contract_price_usd_per_tone": 13101.413133832086
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 14317000.0,
+            "import_value_tones": 4518.0,
+            "avg_contract_price_usd_per_tone": 3168.8800354139
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 12194000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 7156000.0,
+            "import_value_tones": 3026.0,
+            "avg_contract_price_usd_per_tone": 2364.8380700594844
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 6030000.0,
+            "import_value_tones": 965.0,
+            "avg_contract_price_usd_per_tone": 6248.704663212436
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 4722000.0,
+            "import_value_tones": 117.0,
+            "avg_contract_price_usd_per_tone": 40358.97435897436
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 2547000.0,
+            "import_value_tones": 113.0,
+            "avg_contract_price_usd_per_tone": 22539.82300884956
+          },
+          {
+            "country": "France",
+            "import_value_usd": 1656000.0,
+            "import_value_tones": 216.0,
+            "avg_contract_price_usd_per_tone": 7666.666666666667
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 1617000.0,
+            "import_value_tones": 609.0,
+            "avg_contract_price_usd_per_tone": 2655.1724137931033
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 1602000.0,
+            "import_value_tones": 8.0,
+            "avg_contract_price_usd_per_tone": 200250.0
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 1536000.0,
+            "import_value_tones": 10.0,
+            "avg_contract_price_usd_per_tone": 153600.0
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 1079000.0,
+            "import_value_tones": 306.0,
+            "avg_contract_price_usd_per_tone": 3526.143790849673
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 734000.0,
+            "import_value_tones": 160.0,
+            "avg_contract_price_usd_per_tone": 4587.5
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 631000.0,
+            "import_value_tones": 40.0,
+            "avg_contract_price_usd_per_tone": 15775.0
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 424000.0,
+            "import_value_tones": 300.0,
+            "avg_contract_price_usd_per_tone": 1413.3333333333333
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 278000.0,
+            "import_value_tones": 89.0,
+            "avg_contract_price_usd_per_tone": 3123.5955056179773
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 267000.0,
+            "import_value_tones": 15.0,
+            "avg_contract_price_usd_per_tone": 17800.0
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 249000.0,
+            "import_value_tones": 27.0,
+            "avg_contract_price_usd_per_tone": 9222.222222222223
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 101000.0,
+            "import_value_tones": 12.0,
+            "avg_contract_price_usd_per_tone": 8416.666666666666
+          },
+          {
+            "country": "Estonia",
+            "import_value_usd": 89000.0,
+            "import_value_tones": 647.0,
+            "avg_contract_price_usd_per_tone": 137.5579598145286
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 66000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 26000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 26000.0
+          },
+          {
+            "country": "Norway",
+            "import_value_usd": 14000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 15.0,
+            "avg_contract_price_usd_per_tone": 0.0
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Bosnia and Herzegovina",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "India",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 1782.0,
+            "avg_contract_price_usd_per_tone": 0.0
+          },
+          {
+            "country": "South Africa",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "top5_by_value": [
+          {
+            "country": "Belarus",
+            "import_value_usd": 100480000.0,
+            "import_value_tones": 41784.0,
+            "avg_contract_price_usd_per_tone": 2404.7482289871723
+          },
+          {
+            "country": "China",
+            "import_value_usd": 86759000.0,
+            "import_value_tones": 25690.0,
+            "avg_contract_price_usd_per_tone": 3377.150642273258
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 41540000.0,
+            "import_value_tones": 5777.0,
+            "avg_contract_price_usd_per_tone": 7190.583347758352
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 18489000.0,
+            "import_value_tones": 4957.0,
+            "avg_contract_price_usd_per_tone": 3729.876941698608
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 10185000.0,
+            "import_value_tones": 1603.0,
+            "avg_contract_price_usd_per_tone": 6353.711790393013
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 9350000.0,
+            "import_value_tones": 1498.0,
+            "avg_contract_price_usd_per_tone": 6241.655540720962
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 6395000.0,
+            "import_value_tones": 858.0,
+            "avg_contract_price_usd_per_tone": 7453.379953379954
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 5007000.0,
+            "import_value_tones": 805.0,
+            "avg_contract_price_usd_per_tone": 6219.875776397515
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 4941000.0,
+            "import_value_tones": 758.0,
+            "avg_contract_price_usd_per_tone": 6518.469656992084
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 3973000.0,
+            "import_value_tones": 440.0,
+            "avg_contract_price_usd_per_tone": 9029.545454545454
+          },
+          {
+            "country": "Estonia",
+            "import_value_usd": 3012000.0,
+            "import_value_tones": 382.0,
+            "avg_contract_price_usd_per_tone": 7884.8167539267015
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 2997000.0,
+            "import_value_tones": 357.0,
+            "avg_contract_price_usd_per_tone": 8394.957983193277
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 2551000.0,
+            "import_value_tones": 232.0,
+            "avg_contract_price_usd_per_tone": 10995.689655172413
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 1867000.0,
+            "import_value_tones": 215.0,
+            "avg_contract_price_usd_per_tone": 8683.720930232557
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 1777000.0,
+            "import_value_tones": 185.0,
+            "avg_contract_price_usd_per_tone": 9605.405405405405
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 1599000.0,
+            "import_value_tones": 116.0,
+            "avg_contract_price_usd_per_tone": 13784.48275862069
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 940000.0,
+            "import_value_tones": 114.0,
+            "avg_contract_price_usd_per_tone": 8245.61403508772
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 790000.0,
+            "import_value_tones": 90.0,
+            "avg_contract_price_usd_per_tone": 8777.777777777777
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 766000.0,
+            "import_value_tones": 61.0,
+            "avg_contract_price_usd_per_tone": 12557.377049180328
+          },
+          {
+            "country": "France",
+            "import_value_usd": 674000.0,
+            "import_value_tones": 50.0,
+            "avg_contract_price_usd_per_tone": 13480.0
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 657000.0,
+            "import_value_tones": 41.0,
+            "avg_contract_price_usd_per_tone": 16024.390243902439
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 593000.0,
+            "import_value_tones": 24.0,
+            "avg_contract_price_usd_per_tone": 24708.333333333332
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 560000.0,
+            "import_value_tones": 22.0,
+            "avg_contract_price_usd_per_tone": 25454.545454545456
+          },
+          {
+            "country": "South Africa",
+            "import_value_usd": 459000.0,
+            "import_value_tones": 16.0,
+            "avg_contract_price_usd_per_tone": 28687.5
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 332000.0,
+            "import_value_tones": 6.0,
+            "avg_contract_price_usd_per_tone": 55333.333333333336
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 108000.0,
+            "import_value_tones": 2.0,
+            "avg_contract_price_usd_per_tone": 54000.0
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 32000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 32000.0
+          },
+          {
+            "country": "Norway",
+            "import_value_usd": 11000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Bosnia and Herzegovina",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "India",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product_code": "330300",
+    "avg_contract_price_by_year": [
+      {
+        "year": 2022,
+        "top5_by_value": [
+          {
+            "country": "France",
+            "import_value_usd": 316569000.0,
+            "import_value_tones": 6887.0,
+            "avg_contract_price_usd_per_tone": 45966.16814287788
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 64796000.00000001,
+            "import_value_tones": 2571.0,
+            "avg_contract_price_usd_per_tone": 25202.644885258658
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 52434000.0,
+            "import_value_tones": 2209.0,
+            "avg_contract_price_usd_per_tone": 23736.532367587144
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 32689000.0,
+            "import_value_tones": 1030.0,
+            "avg_contract_price_usd_per_tone": 31736.893203883494
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 27625000.0,
+            "import_value_tones": 1444.0,
+            "avg_contract_price_usd_per_tone": 19130.8864265928
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 18249000.0,
+            "import_value_tones": 240.0,
+            "avg_contract_price_usd_per_tone": 76037.5
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 17038000.0,
+            "import_value_tones": 1210.0,
+            "avg_contract_price_usd_per_tone": 14080.99173553719
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 8119000.0,
+            "import_value_tones": 493.0,
+            "avg_contract_price_usd_per_tone": 16468.559837728193
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 5768000.0,
+            "import_value_tones": 8.0,
+            "avg_contract_price_usd_per_tone": 721000.0
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 5157000.0,
+            "import_value_tones": 252.0,
+            "avg_contract_price_usd_per_tone": 20464.285714285714
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 3951000.0,
+            "import_value_tones": 245.0,
+            "avg_contract_price_usd_per_tone": 16126.530612244898
+          },
+          {
+            "country": "United Arab Emirates",
+            "import_value_usd": 3924000.0,
+            "import_value_tones": 172.0,
+            "avg_contract_price_usd_per_tone": 22813.95348837209
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 1975000.0,
+            "import_value_tones": 223.0,
+            "avg_contract_price_usd_per_tone": 8856.502242152466
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 1352000.0,
+            "import_value_tones": 57.0,
+            "avg_contract_price_usd_per_tone": 23719.298245614034
+          },
+          {
+            "country": "Bahrain",
+            "import_value_usd": 621000.0,
+            "import_value_tones": 32.0,
+            "avg_contract_price_usd_per_tone": 19406.25
+          },
+          {
+            "country": "China",
+            "import_value_usd": 527000.0,
+            "import_value_tones": 16.0,
+            "avg_contract_price_usd_per_tone": 32937.5
+          },
+          {
+            "country": "Ireland",
+            "import_value_usd": 401000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 401000.0
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 393000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 339000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 312000.0,
+            "import_value_tones": 29.0,
+            "avg_contract_price_usd_per_tone": 10758.620689655172
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 248000.0,
+            "import_value_tones": 18.0,
+            "avg_contract_price_usd_per_tone": 13777.777777777777
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 174000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Oman",
+            "import_value_usd": 172000.0,
+            "import_value_tones": 460.0,
+            "avg_contract_price_usd_per_tone": 373.9130434782609
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 128000.0,
+            "import_value_tones": 11.0,
+            "avg_contract_price_usd_per_tone": 11636.363636363636
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 52000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 52000.0
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 46000.0,
+            "import_value_tones": 2.0,
+            "avg_contract_price_usd_per_tone": 23000.0
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 39000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 39000.0
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 36000.0,
+            "import_value_tones": 2.0,
+            "avg_contract_price_usd_per_tone": 18000.0
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 22000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Saudi Arabia",
+            "import_value_usd": 21000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 21000.0
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 19000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 19000.0
+          },
+          {
+            "country": "Israel",
+            "import_value_usd": 13000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Egypt",
+            "import_value_usd": 9000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 9000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 8000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Australia",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 6.0,
+            "avg_contract_price_usd_per_tone": 666.6666666666666
+          },
+          {
+            "country": "Chile",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "India",
+            "import_value_usd": 3000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 3000.0
+          },
+          {
+            "country": "Brazil",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Area Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 31.0,
+            "avg_contract_price_usd_per_tone": 0.0
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Cyprus",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Kyrgyzstan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Morocco",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Uzbekistan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 0.0
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "top5_by_value": [
+          {
+            "country": "France",
+            "import_value_usd": 176841000.0,
+            "import_value_tones": 4236.0,
+            "avg_contract_price_usd_per_tone": 41747.1671388102
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 42537000.0,
+            "import_value_tones": 2414.0,
+            "avg_contract_price_usd_per_tone": 17620.96106048053
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 34301000.0,
+            "import_value_tones": 1796.0,
+            "avg_contract_price_usd_per_tone": 19098.552338530066
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 28326000.0,
+            "import_value_tones": 854.0,
+            "avg_contract_price_usd_per_tone": 33168.61826697892
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 17981000.0,
+            "import_value_tones": 684.0,
+            "avg_contract_price_usd_per_tone": 26288.011695906433
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 14931000.0,
+            "import_value_tones": 196.0,
+            "avg_contract_price_usd_per_tone": 76178.57142857143
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 11432000.0,
+            "import_value_tones": 1324.0,
+            "avg_contract_price_usd_per_tone": 8634.441087613293
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 5262000.0,
+            "import_value_tones": 194.0,
+            "avg_contract_price_usd_per_tone": 27123.711340206184
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 4075999.9999999995,
+            "import_value_tones": 207.0,
+            "avg_contract_price_usd_per_tone": 19690.821256038646
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 3693000.0,
+            "import_value_tones": 406.0,
+            "avg_contract_price_usd_per_tone": 9096.059113300493
+          },
+          {
+            "country": "United Arab Emirates",
+            "import_value_usd": 3256000.0,
+            "import_value_tones": 85.0,
+            "avg_contract_price_usd_per_tone": 38305.882352941175
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 2281000.0,
+            "import_value_tones": 167.0,
+            "avg_contract_price_usd_per_tone": 13658.68263473054
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 1799000.0,
+            "import_value_tones": 177.0,
+            "avg_contract_price_usd_per_tone": 10163.841807909605
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 1278000.0,
+            "import_value_tones": 4.0,
+            "avg_contract_price_usd_per_tone": 319500.0
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 1086000.0,
+            "import_value_tones": 49.0,
+            "avg_contract_price_usd_per_tone": 22163.26530612245
+          },
+          {
+            "country": "China",
+            "import_value_usd": 398000.0,
+            "import_value_tones": 24.0,
+            "avg_contract_price_usd_per_tone": 16583.333333333332
+          },
+          {
+            "country": "Bahrain",
+            "import_value_usd": 369000.0,
+            "import_value_tones": 36.0,
+            "avg_contract_price_usd_per_tone": 10250.0
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 334000.0,
+            "import_value_tones": 12.0,
+            "avg_contract_price_usd_per_tone": 27833.333333333332
+          },
+          {
+            "country": "Oman",
+            "import_value_usd": 293000.0,
+            "import_value_tones": 113.0,
+            "avg_contract_price_usd_per_tone": 2592.920353982301
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 141000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 76000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 70000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 53000.0,
+            "import_value_tones": 3.0,
+            "avg_contract_price_usd_per_tone": 17666.666666666668
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 37000.0,
+            "import_value_tones": 8.0,
+            "avg_contract_price_usd_per_tone": 4625.0
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 35000.0,
+            "import_value_tones": 2.0,
+            "avg_contract_price_usd_per_tone": 17500.0
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 25000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 17000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 17000.0
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 10000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 6000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 6000.0
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 6000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Egypt",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Australia",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 3.0,
+            "avg_contract_price_usd_per_tone": 1333.3333333333333
+          },
+          {
+            "country": "Morocco",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Israel",
+            "import_value_usd": 3000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Area Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Brazil",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Chile",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Cyprus",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "India",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Ireland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Kyrgyzstan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Saudi Arabia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Uzbekistan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "top5_by_value": [
+          {
+            "country": "France",
+            "import_value_usd": 287720000.0,
+            "import_value_tones": 6094.0,
+            "avg_contract_price_usd_per_tone": 47213.65277321956
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 72193000.0,
+            "import_value_tones": 2322.0,
+            "avg_contract_price_usd_per_tone": 31090.86993970715
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 51377000.0,
+            "import_value_tones": 2273.0,
+            "avg_contract_price_usd_per_tone": 22603.167619885615
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 35864000.0,
+            "import_value_tones": 1475.0,
+            "avg_contract_price_usd_per_tone": 24314.57627118644
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 27410000.0,
+            "import_value_tones": 886.0,
+            "avg_contract_price_usd_per_tone": 30936.794582392777
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 18953000.0,
+            "import_value_tones": 754.0,
+            "avg_contract_price_usd_per_tone": 25136.60477453581
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 16448000.0,
+            "import_value_tones": 586.0,
+            "avg_contract_price_usd_per_tone": 28068.25938566553
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 7058000.0,
+            "import_value_tones": 574.0,
+            "avg_contract_price_usd_per_tone": 12296.16724738676
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 5787000.0,
+            "import_value_tones": 350.0,
+            "avg_contract_price_usd_per_tone": 16534.285714285714
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 5743000.0,
+            "import_value_tones": 270.0,
+            "avg_contract_price_usd_per_tone": 21270.37037037037
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 5504000.0,
+            "import_value_tones": 201.0,
+            "avg_contract_price_usd_per_tone": 27383.084577114427
+          },
+          {
+            "country": "United Arab Emirates",
+            "import_value_usd": 5089000.0,
+            "import_value_tones": 179.0,
+            "avg_contract_price_usd_per_tone": 28430.167597765365
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 3538000.0,
+            "import_value_tones": 164.0,
+            "avg_contract_price_usd_per_tone": 21573.170731707316
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 1261000.0,
+            "import_value_tones": 79.0,
+            "avg_contract_price_usd_per_tone": 15962.025316455696
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 1051000.0,
+            "import_value_tones": 38.0,
+            "avg_contract_price_usd_per_tone": 27657.894736842107
+          },
+          {
+            "country": "China",
+            "import_value_usd": 1034999.9999999999,
+            "import_value_tones": 34.0,
+            "avg_contract_price_usd_per_tone": 30441.17647058823
+          },
+          {
+            "country": "Bahrain",
+            "import_value_usd": 677000.0,
+            "import_value_tones": 26.0,
+            "avg_contract_price_usd_per_tone": 26038.46153846154
+          },
+          {
+            "country": "Greece",
+            "import_value_usd": 503000.0,
+            "import_value_tones": 15.0,
+            "avg_contract_price_usd_per_tone": 33533.333333333336
+          },
+          {
+            "country": "Oman",
+            "import_value_usd": 398000.0,
+            "import_value_tones": 15.0,
+            "avg_contract_price_usd_per_tone": 26533.333333333332
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 329000.0,
+            "import_value_tones": 8.0,
+            "avg_contract_price_usd_per_tone": 41125.0
+          },
+          {
+            "country": "Area Nes",
+            "import_value_usd": 271000.0,
+            "import_value_tones": 5.0,
+            "avg_contract_price_usd_per_tone": 54200.0
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 182000.0,
+            "import_value_tones": 4.0,
+            "avg_contract_price_usd_per_tone": 45500.0
+          },
+          {
+            "country": "Australia",
+            "import_value_usd": 136000.0,
+            "import_value_tones": 4.0,
+            "avg_contract_price_usd_per_tone": 34000.0
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 132000.0,
+            "import_value_tones": 4.0,
+            "avg_contract_price_usd_per_tone": 33000.0
+          },
+          {
+            "country": "Armenia",
+            "import_value_usd": 121000.0,
+            "import_value_tones": 2.0,
+            "avg_contract_price_usd_per_tone": 60500.0
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 103000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 103000.0
+          },
+          {
+            "country": "Latvia",
+            "import_value_usd": 74000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 74000.0
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 61000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 61000.0
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 16000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 16000.0
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 14000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Kyrgyzstan",
+            "import_value_usd": 11000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 8000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Uzbekistan",
+            "import_value_usd": 6000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Israel",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Brazil",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Chile",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Cyprus",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Egypt",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "India",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Ireland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Luxembourg",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Morocco",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Saudi Arabia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Serbia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product_code": "847290",
+    "avg_contract_price_by_year": [
+      {
+        "year": 2022,
+        "top5_by_value": [
+          {
+            "country": "China",
+            "import_value_usd": 195111000.0,
+            "import_value_tones": 10842.0,
+            "avg_contract_price_usd_per_tone": 17995.84947426674
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 33904000.0,
+            "import_value_tones": 1303.0,
+            "avg_contract_price_usd_per_tone": 26019.953952417498
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 23674000.0,
+            "import_value_tones": 1753.0,
+            "avg_contract_price_usd_per_tone": 13504.848830576155
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 23191000.0,
+            "import_value_tones": 36.0,
+            "avg_contract_price_usd_per_tone": 644194.4444444445
+          },
+          {
+            "country": "India",
+            "import_value_usd": 5583000.0,
+            "import_value_tones": 223.0,
+            "avg_contract_price_usd_per_tone": 25035.874439461884
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 3161000.0,
+            "import_value_tones": 6.0,
+            "avg_contract_price_usd_per_tone": 526833.3333333334
+          },
+          {
+            "country": "Philippines",
+            "import_value_usd": 2411000.0,
+            "import_value_tones": 56.0,
+            "avg_contract_price_usd_per_tone": 43053.57142857143
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 2084000.0,
+            "import_value_tones": 638.0,
+            "avg_contract_price_usd_per_tone": 3266.4576802507836
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 1461000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 1461000.0
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 626000.0,
+            "import_value_tones": 6.0,
+            "avg_contract_price_usd_per_tone": 104333.33333333333
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 456000.0,
+            "import_value_tones": 7.0,
+            "avg_contract_price_usd_per_tone": 65142.857142857145
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 319000.0,
+            "import_value_tones": 5.0,
+            "avg_contract_price_usd_per_tone": 63800.0
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 236000.0,
+            "import_value_tones": 52.0,
+            "avg_contract_price_usd_per_tone": 4538.461538461538
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 120000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Hong Kong. China",
+            "import_value_usd": 81000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 69000.0,
+            "import_value_tones": 2.0,
+            "avg_contract_price_usd_per_tone": 34500.0
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 61000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 54000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 49000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 49000.0
+          },
+          {
+            "country": "Singapore",
+            "import_value_usd": 23000.0,
+            "import_value_tones": 3.0,
+            "avg_contract_price_usd_per_tone": 7666.666666666667
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 9000.0,
+            "import_value_tones": 8.0,
+            "avg_contract_price_usd_per_tone": 1125.0
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 8000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 7000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Korea. Democratic People's Republic of",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Portugal",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 3000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 3000.0
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 3000.0,
+            "import_value_tones": 52.0,
+            "avg_contract_price_usd_per_tone": 57.69230769230769
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "France",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Malaysia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 0.0
+          },
+          {
+            "country": "Moldova. Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "top5_by_value": [
+          {
+            "country": "China",
+            "import_value_usd": 130686000.0,
+            "import_value_tones": 6930.0,
+            "avg_contract_price_usd_per_tone": 18858.008658008657
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 28409000.0,
+            "import_value_tones": 1810.0,
+            "avg_contract_price_usd_per_tone": 15695.580110497238
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 14703000.0,
+            "import_value_tones": 620.0,
+            "avg_contract_price_usd_per_tone": 23714.516129032258
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 10529000.0,
+            "import_value_tones": 12.0,
+            "avg_contract_price_usd_per_tone": 877416.6666666666
+          },
+          {
+            "country": "India",
+            "import_value_usd": 1401000.0,
+            "import_value_tones": 97.0,
+            "avg_contract_price_usd_per_tone": 14443.298969072164
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 1200000.0,
+            "import_value_tones": 19.0,
+            "avg_contract_price_usd_per_tone": 63157.89473684211
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 729000.0,
+            "import_value_tones": 7.0,
+            "avg_contract_price_usd_per_tone": 104142.85714285714
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 664000.0,
+            "import_value_tones": 229.0,
+            "avg_contract_price_usd_per_tone": 2899.5633187772924
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 601000.0,
+            "import_value_tones": 24.0,
+            "avg_contract_price_usd_per_tone": 25041.666666666668
+          },
+          {
+            "country": "Philippines",
+            "import_value_usd": 591000.0,
+            "import_value_tones": 18.0,
+            "avg_contract_price_usd_per_tone": 32833.333333333336
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 347000.0,
+            "import_value_tones": 3.0,
+            "avg_contract_price_usd_per_tone": 115666.66666666667
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 242000.0,
+            "import_value_tones": 5.0,
+            "avg_contract_price_usd_per_tone": 48400.0
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 223000.0,
+            "import_value_tones": 8.0,
+            "avg_contract_price_usd_per_tone": 27875.0
+          },
+          {
+            "country": "France",
+            "import_value_usd": 124000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 104000.0,
+            "import_value_tones": 2.0,
+            "avg_contract_price_usd_per_tone": 52000.0
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 66000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 66000.0
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 58000.0,
+            "import_value_tones": 9.0,
+            "avg_contract_price_usd_per_tone": 6444.444444444444
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 51000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 51000.0
+          },
+          {
+            "country": "Hong Kong. China",
+            "import_value_usd": 36000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 18000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 17000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 16000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 16000.0
+          },
+          {
+            "country": "Malaysia",
+            "import_value_usd": 13000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 13000.0
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 7000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 6000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 5000.0,
+            "import_value_tones": 4.0,
+            "avg_contract_price_usd_per_tone": 1250.0
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Portugal",
+            "import_value_usd": 2000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 1000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Korea. Democratic People's Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Moldova. Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Singapore",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "top5_by_value": [
+          {
+            "country": "China",
+            "import_value_usd": 140849000.0,
+            "import_value_tones": 8141.0,
+            "avg_contract_price_usd_per_tone": 17301.191499815748
+          },
+          {
+            "country": "Germany",
+            "import_value_usd": 23844000.0,
+            "import_value_tones": 1580.0,
+            "avg_contract_price_usd_per_tone": 15091.139240506329
+          },
+          {
+            "country": "Hungary",
+            "import_value_usd": 19300000.0,
+            "import_value_tones": 777.0,
+            "avg_contract_price_usd_per_tone": 24839.124839124837
+          },
+          {
+            "country": "Korea. Republic of",
+            "import_value_usd": 7740000.0,
+            "import_value_tones": 279.0,
+            "avg_contract_price_usd_per_tone": 27741.935483870966
+          },
+          {
+            "country": "Japan",
+            "import_value_usd": 6675000.0,
+            "import_value_tones": 223.0,
+            "avg_contract_price_usd_per_tone": 29932.735426008967
+          },
+          {
+            "country": "India",
+            "import_value_usd": 2500000.0,
+            "import_value_tones": 131.0,
+            "avg_contract_price_usd_per_tone": 19083.969465648854
+          },
+          {
+            "country": "Viet Nam",
+            "import_value_usd": 2161000.0,
+            "import_value_tones": 73.0,
+            "avg_contract_price_usd_per_tone": 29602.739726027397
+          },
+          {
+            "country": "Taipei. Chinese",
+            "import_value_usd": 1022000.0,
+            "import_value_tones": 49.0,
+            "avg_contract_price_usd_per_tone": 20857.14285714286
+          },
+          {
+            "country": "Philippines",
+            "import_value_usd": 922000.0,
+            "import_value_tones": 25.0,
+            "avg_contract_price_usd_per_tone": 36880.0
+          },
+          {
+            "country": "Poland",
+            "import_value_usd": 647000.0,
+            "import_value_tones": 17.0,
+            "avg_contract_price_usd_per_tone": 38058.82352941176
+          },
+          {
+            "country": "Italy",
+            "import_value_usd": 541000.0,
+            "import_value_tones": 13.0,
+            "avg_contract_price_usd_per_tone": 41615.38461538462
+          },
+          {
+            "country": "Mexico",
+            "import_value_usd": 430000.0,
+            "import_value_tones": 7.0,
+            "avg_contract_price_usd_per_tone": 61428.57142857143
+          },
+          {
+            "country": "Belarus",
+            "import_value_usd": 210000.0,
+            "import_value_tones": 4.0,
+            "avg_contract_price_usd_per_tone": 52500.0
+          },
+          {
+            "country": "Netherlands",
+            "import_value_usd": 136000.0,
+            "import_value_tones": 3.0,
+            "avg_contract_price_usd_per_tone": 45333.333333333336
+          },
+          {
+            "country": "United Kingdom",
+            "import_value_usd": 78000.0,
+            "import_value_tones": 2.0,
+            "avg_contract_price_usd_per_tone": 39000.0
+          },
+          {
+            "country": "Denmark",
+            "import_value_usd": 52000.0,
+            "import_value_tones": 2.0,
+            "avg_contract_price_usd_per_tone": 26000.0
+          },
+          {
+            "country": "Sweden",
+            "import_value_usd": 47000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 47000.0
+          },
+          {
+            "country": "Hong Kong. China",
+            "import_value_usd": 35000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 35000.0
+          },
+          {
+            "country": "Malaysia",
+            "import_value_usd": 26000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 26000.0
+          },
+          {
+            "country": "United States of America",
+            "import_value_usd": 23000.0,
+            "import_value_tones": 1.0,
+            "avg_contract_price_usd_per_tone": 23000.0
+          },
+          {
+            "country": "Indonesia",
+            "import_value_usd": 17000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Czech Republic",
+            "import_value_usd": 14000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Spain",
+            "import_value_usd": 4000.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Austria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Belgium",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Bulgaria",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Canada",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "European Union Nes",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Finland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "France",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Georgia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Kazakhstan",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Korea. Democratic People's Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Lithuania",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Moldova. Republic of",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Portugal",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Singapore",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovakia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Slovenia",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Switzerland",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Thailand",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Türkiye",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          },
+          {
+            "country": "Ukraine",
+            "import_value_usd": 0.0,
+            "import_value_tones": 0.0,
+            "avg_contract_price_usd_per_tone": null
+          }
+        ]
+      }
+    ]
+  }
+]
