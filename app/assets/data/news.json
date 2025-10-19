@@ -1,0 +1,65 @@
+{
+  "main": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Container_ship_Charlotte_Maersk.jpg",
+  "news": [
+    {
+      "name": "ФТС: объем ввоза авто в октябре грозит новым рекордом",
+      "description": "Владивостокская таможня с 1 октября оформила свыше 17,5 тыс. автомобилей для личного пользования — на 24% больше, чем за первые две недели сентября.",
+      "picture": "https://cdnstatic.rg.ru/uploads/images/2025/10/14/ria_6313337hr_892_0d7.jpg",
+      "link": "https://rg.ru/2025/10/14/fts-obem-vvoza-avto-v-oktiabre-grozit-novym-rekordom.html"
+    },
+    {
+      "name": "В ЕЭК обсудили актуальные вопросы декларирования товаров e-commerce",
+      "description": "Рабочая группа ЕЭК рассмотрела форму и порядок корректировки декларации на товары e-commerce, включая данные по транспортным средствам и IMEI.",
+      "picture": "https://eec.eaeunion.org/upload/resize_cache/iblock/7ee/il36wqubrmvaqil2ung2r2qcxwclpy99/314_214_2/EEC12971.jpg",
+      "link": "https://eec.eaeunion.org/news/v-eek-obsudili-aktualnye-voprosy-deklarirovaniya-tovarov-elektronnoy-torgovli/"
+    },
+    {
+      "name": "ЕАЭС предоставит тарифную льготу на ввоз мяса КРС для переработки",
+      "description": "Решение ЕЭК предусматривает освобождение от ввозной пошлины для отдельных объёмов мяса КРС, предназначенного для промышленной переработки в 2025 году.",
+      "picture": "https://eec.eaeunion.org/upload/resize_cache/iblock/344/jn0rrjbu210qhb0jrzn7v8qo00qjj42u/1400_909_28e47e797c9482dc4770acaf1e6b3e2d2/Slepnev_EEC_4_4702.jpg",
+      "link": "https://eec.eaeunion.org/news/eaes-predostavit-tarifnuyu-lgotu-na-vvoz-myasa-krs-dlya-promyshlennoy-pererabotki-v-2025-godu/"
+    },
+    {
+      "name": "В ЕАЭС стартует применение навигационных пломб для отслеживания перевозок",
+      "description": "Решение Коллегии ЕЭК вводит поэтапное применение электронных навигационных пломб для мониторинга перевозок с 1 февраля 2026 года.",
+      "picture": "https://eec.eaeunion.org/upload/resize_cache/iblock/3fc/iegd66xtavh3hnmw52woxfy2q22jd7nb/1400_909_28e47e797c9482dc4770acaf1e6b3e2d2/DSC04086.JPG",
+      "link": "https://eec.eaeunion.org/news/v-eaes-startuet-primenenie-navigatsionnykh-plomb-dlya-otslezhivaniya-perevozok/"
+    },
+    {
+      "name": "КС РФ изучил вопрос параллельного импорта и антидемпинговых пошлин",
+      "description": "Конституционный суд указал на недопустимость ухудшения положения бизнеса и признал нормы закона о таможенном регулировании соответствующими Конституции.",
+      "picture": "https://cdnstatic.rg.ru/uploads/images/2022/06/21/ks_rf_01.jpg",
+      "link": "https://rg.ru/2025/10/16/tamozhne-dali-dobro.html"
+    },
+    {
+      "name": "ЕЭК: влияние таможенного регулирования на логистику обсудили на Евразийском логистическом дне",
+      "description": "Участники отметили важность цифровых технологий и унификации процедур для ускорения цепочек поставок внутри ЕАЭС.",
+      "picture": "https://eec.eaeunion.org/upload/resize_cache/iblock/bd7/m8aw4zo6n8gw365usvpbv5f4et6lqck2/314_214_2/EEC12941.jpg",
+      "link": "https://eec.eaeunion.org/news/vliyanie-tamozhennogo-regulirovaniya-na-razvitie-logistiki-v-eaes-obsudili-na-evraziyskom-logisticheskom-dne/"
+    },
+    {
+      "name": "ЕЭК: поправки в Таможенный кодекс для борьбы с «лжетранзитом» табачной продукции",
+      "description": "Комиссия обсудила предложения по усилению контроля транзита табачной продукции и предупреждению злоупотреблений.",
+      "picture": "https://eec.eaeunion.org/upload/resize_cache/iblock/8ec/dbejua5lbd0hd7ai5vaolcjsb4kaok3k/314_214_2/EEC12893.jpg",
+      "link": "https://eec.eaeunion.org/news/ruslan-davydov-v-tamozhennyj-kodeks-eaes-planiruetsya-vnesti-popravki-napravlennye-na-borbu-s-lzhetranzitom-tabachnoj-produktsii/"
+    },
+    {
+      "name": "На границе РФ и Казахстана образовались очереди из фур с грузами из Китая",
+      "description": "Ситуация осложнилась из-за закрытия китайских КПП в период праздников и усиления проверок на казахстанской стороне.",
+      "picture": "https://cdnstatic.rg.ru/uploads/images/2019/10/21/kamaz_1000.jpg",
+      "link": "https://rg.ru/2025/10/02/na-granice-rf-i-kazahstana-obrazovalis-ocheredi-iz-fur-s-gruzami-iz-kitaia.html"
+    },
+    {
+      "name": "МВФ: рост мировой торговли в 2025 году — 2,6%",
+      "description": "Прогноз МВФ учитывает влияние новых торговых ограничений и изменения в динамике мировых товаропотоков.",
+      "picture": "https://taccdn.com/static/tass/img/og/og_ekonomika.jpg",
+      "link": "https://tass.ru/ekonomika/24657695"
+    },
+    {
+      "name": "Таможенные платежи и пошлины можно будет перечислять через СБП",
+      "description": "Банк России, НСПК, ФТС и Казначейство договорились интегрировать СБП в сервисы уплаты таможенных платежей.",
+      "picture": "https://cdnstatic.rg.ru/uploads/images/2020/01/30/sbp_01.jpg",
+      "link": "https://rg.ru/2025/09/18/tamozhennye-platezhi-i-poshliny-mozhno-budet-perechisliat-cherez-sbp.html"
+    }
+  ]
+}

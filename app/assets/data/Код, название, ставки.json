@@ -1,0 +1,20 @@
+[
+  {
+    "product_code": "842810",
+    "product_name": "Лифты",
+    "tariff_current": 0.0,
+    "tariff_bound_wto": 5.0
+  },
+  {
+    "product_code": "330300",
+    "product_name": "Парфюмерия",
+    "tariff_current": 6.5,
+    "tariff_bound_wto": 6.5
+  },
+  {
+    "product_code": "847290",
+    "product_name": "Банкоматы",
+    "tariff_current": 0.0,
+    "tariff_bound_wto": 0.0
+  }
+]
