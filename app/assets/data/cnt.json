@@ -1,0 +1,28 @@
+{
+  "tovars": [
+    {
+      "name": "Лифты",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Elevator_Doors.jpg/500px-Elevator_Doors.jpg",
+      "description": "Лифт (Wikimedia Commons).",
+      "rating": "500"
+    },
+    {
+      "name": "Парфюмерия",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Perfume_glass_bottle.jpg/500px-Perfume_glass_bottle.jpg",
+      "description": "Парфюмерия (Wikimedia Commons).",
+      "rating": "500"
+    },
+    {
+      "name": "Банкоматы",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ATM_inside_tenerife_IMG_8732.JPG/500px-ATM_inside_tenerife_IMG_8732.JPG",
+      "description": "Банкомат (боком) (Wikimedia Commons).",
+      "rating": "500"
+    },
+    {
+      "name": "Часы настольные электронные",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Digital-clock-alarm.jpg/500px-Digital-clock-alarm.jpg",
+      "description": "Электронные настольные часы (Wikimedia Commons).",
+      "rating": "500"
+    }
+  ]
+}

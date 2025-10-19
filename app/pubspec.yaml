@@ -1,0 +1,55 @@
+name: ttr_mosprom
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  syncfusion_flutter_charts: ^31.1.21
+  url_launcher: ^6.3.2
+  syncfusion_flutter_maps: ^31.2.2
+  webview_flutter: ^4.7.0
+  webview_flutter_web: ^0.2.2
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  pdf: ^3.10.8
+  printing: ^5.13.1
+  screenshot: ^3.0.0
+  http: ^1.2.2
+  shared_preferences: ^2.5.3
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  assets:
+    - assets/data/first_10.json
+    - assets/data/first10pdf/
+    - assets/data/product_data.json
+    - assets/data/tovars.json
+    - assets/data/cnt.json
+    - assets/data/news.json
+    - assets/maps/world.geojson
+    - "assets/data/Код, название, ставки.json"
+    - "assets/data/Объем и динамика импорта.json"
+    - "assets/data/Объем и динамика производства.json"
+    - "assets/data/Объем и динамика потребления.json"
+    - "assets/data/Географическая структура импорта.json"
+    - "assets/data/Средняя контрактная цена импорта.json"
+    - "assets/data/Рекомендуемые меры.json"
+    - "assets/data/Описание блоков.json"
+  uses-material-design: true

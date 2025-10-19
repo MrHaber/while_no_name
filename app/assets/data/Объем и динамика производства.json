@@ -1,0 +1,56 @@
+[
+  {
+    "product_code": "842810",
+    "last_three_years": [
+      {
+        "year": 2022,
+        "production_value_usd": 286000000.0
+      },
+      {
+        "year": 2023,
+        "production_value_usd": 300000000.0
+      },
+      {
+        "year": 2024,
+        "production_value_usd": 307000000.0
+      }
+    ],
+    "last_change_percent": 2.3333333333333335
+  },
+  {
+    "product_code": "330300",
+    "last_three_years": [
+      {
+        "year": 2022,
+        "production_value_usd": 660000000.0
+      },
+      {
+        "year": 2023,
+        "production_value_usd": 460000000.0
+      },
+      {
+        "year": 2024,
+        "production_value_usd": 657000000.0
+      }
+    ],
+    "last_change_percent": 42.82608695652174
+  },
+  {
+    "product_code": "847290",
+    "last_three_years": [
+      {
+        "year": 2022,
+        "production_value_usd": 317000000.0
+      },
+      {
+        "year": 2023,
+        "production_value_usd": 205000000.0
+      },
+      {
+        "year": 2024,
+        "production_value_usd": 576000000.0
+      }
+    ],
+    "last_change_percent": 180.97560975609755
+  }
+]
